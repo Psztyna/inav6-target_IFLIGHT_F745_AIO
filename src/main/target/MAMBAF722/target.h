@@ -91,7 +91,7 @@
 #define USE_UART6
 
 #define UART1_TX_PIN                    PB6
-#define UART1_RX_PIN                    PB7
+#define UART1_RX_PIN                    PC12 //PB7
 
 #define UART2_TX_PIN                    PA2
 #define UART2_RX_PIN                    PA3
@@ -102,7 +102,7 @@
 #define UART4_TX_PIN                    PA0
 #define UART4_RX_PIN                    PA1
 
-#define UART5_TX_PIN                    PC12
+#define UART5_TX_PIN                    PB7 //PC12
 #define UART5_RX_PIN                    PD2
 
 #define UART6_TX_PIN                    PC6
